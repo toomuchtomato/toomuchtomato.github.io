@@ -8,8 +8,8 @@ name: Too Much Tomato
 # Short bio or description (displayed in the header)
 description: Game Development Blog
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar:
+# URL of your avatar or profile pic
+avatar: {{ site.baseurl }}/images/tedro.png
 
 #
 # Flags below are optional
