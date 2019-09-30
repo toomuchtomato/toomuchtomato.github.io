@@ -9,7 +9,7 @@ name: Too Much Tomato
 description: Game Development Blog
 
 # URL of your avatar or profile pic
-avatar: {{ site.baseurl }}/images/tedro.png
+avatar: https://img.itch.zone/aW1hZ2UyL3VzZXIvNDczNjY3LzE4MjUxNDYucG5n/original/B4m5tw.png
 
 #
 # Flags below are optional
