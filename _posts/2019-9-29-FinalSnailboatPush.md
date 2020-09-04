@@ -2,6 +2,8 @@
 layout: post
 title: The Final Push to Launch Snailboat
 tag: Snailboat
+img: snailboat.png # Add image post (optional)
+
 ---
 
 About a year and a half ago, I decided that I would polish up one of my jam games, add a few quality of life features, and release it on iOS and Android. I thought it would take me a month, but the project has been taking up space in the back of my mind all this time. I finished the majority of the project in one month and was ready to ship. However, there were a lot of aspirations I had for the game that kept me from releasing it into the wild.
